@@ -8,8 +8,8 @@ initModels();
 
 const users = [
   {
-    username: "Iannacus",
-    email: "ian.rosas@academlo.com",
+    username: "joseVargas",
+    email: "jotik1989@gmail.com",
     emailVerified: true,
     password: "1234567",
   },

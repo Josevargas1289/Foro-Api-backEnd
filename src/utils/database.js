@@ -4,8 +4,8 @@ const db = new Sequelize({
   database: "forum_db",
   host: "localhost",
   port: 5432,
-  username: "iannacus",
-  password: "root",
+  username: "postgres",
+  password: "1289",
   dialect: "postgres",
   logging: false,
 });
